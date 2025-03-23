@@ -13,12 +13,13 @@ The dataset is derived from **antivirus telemetry data** containing system confi
 Each row in the dataset represents a **unique machine** identified by `MachineID`, with `target` as the ground truth (1 = Malware detected, 0 = No Malware detected).  
 
 ## 📂 Repository Structure  
+```plaintext
 📦 System_Threat_Detector ├── 📂 data/ # Contains train and test datasets │ ├── train.csv
 │ ├── test.csv
 ├── 📜 kaggle_notebook.ipynb # Main Jupyter Notebook with all code
 ├── 📜 requirements.txt # Dependencies for running the notebook
 ├── 📜 README.md # Project documentation
-
+```
 
 ## 🚀 Features Implemented  
 
