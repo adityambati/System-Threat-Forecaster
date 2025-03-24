@@ -57,7 +57,7 @@ The dataset consists of **76 features**, including:
 
 To **run this project locally**, follow these steps:
 
-### 1️⃣ Clone the Repository  
+### Clone the Repository  
 ```bash
 git clone https://github.com/adityambati/System-Threat-Forecaster.git
 cd System-Threat-Forecaster
