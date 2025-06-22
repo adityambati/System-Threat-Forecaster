@@ -1,11 +1,5 @@
 # 🔥 System Threat Detector - Malware Prediction  
 
-![Project Status](https://img.shields.io/badge/Status-Active-green)  
-![Contributors](https://img.shields.io/badge/Contributors-1-blue)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)  
-
-## 🔍 Overview  
-
 This project is part of a Kaggle competition where the goal is to **predict a system’s probability of getting infected by various families of malware** based on different system properties.  
 
 The dataset is derived from **antivirus telemetry data** containing system configurations, installed security products, OS details, and past malware detections.  
